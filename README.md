@@ -10,8 +10,7 @@ I'm InquisitorIris aka Siri A R, an aspiring **Software Development Engineer** s
 
 This GitHub is my digital notebook — filled with experiments, small wins, and steady progress🌱
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=InquisitorIris&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">-->
-
+<br/>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=InquisitorIris&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=FF66CC&icon_color=FF69B4&text_color=FFE6F2&&bg_color=0,000000,5C1A3B" alt="InquisitorIris's GitHub Stats">
 </div>
