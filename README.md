@@ -5,7 +5,7 @@ I'm InquisitorIris aka Siri A R, an aspiring **Software Development Engineer** s
 - I’m currently working at **Cisco**
 - I’m currently learning to code from the ground up and documenting my journey
 - Reach me at: inquistoriris@outlook.com
-- Pronouns: she/her/hers
+- Pronouns: <span style="color:#FF66CC;">she/her/hers</span>
 - Fun fact: I grew up on Phineas & Ferb, so I take my curiosity as seriously as Doofenshmirtz takes monologues.
 
 This GitHub is my digital notebook — filled with experiments, small wins, and steady progress🌱
